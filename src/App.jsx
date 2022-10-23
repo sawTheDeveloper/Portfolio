@@ -22,7 +22,7 @@ const App = () => {
     <Contacts />
     <Footer />
     </>
-  )
+  ) 
 }
 
 export default App
