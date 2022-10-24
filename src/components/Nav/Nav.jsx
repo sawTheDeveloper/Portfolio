@@ -1,9 +1,14 @@
 import React from 'react'
 import './Nav.css'
+import {AiOutlineHome} from 'react-icons/ai'
 
 const Nav = () => {
   return (
-    <div>Nav</div>
+    <Nav>
+      
+      <a href="#"> <AiOutlineHome/></a>
+    
+    </Nav>
   )
 }
 
