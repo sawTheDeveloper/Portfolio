@@ -39,7 +39,7 @@ body{
     background-image: url(../src/assets/bg-texture.png);
 }
 
-/* General Styles */
+/* ---------------General Styles--------------------- */
 
 .container{
     width: var(--container-width-lg);
@@ -110,8 +110,18 @@ img{
 }
 
 
+/* ----------------Media Queries Medium Devices------------------- */
+@media screen and(max-width:1024) {
+    .container{
+        width: var(--container-width-md);
+    }
 
-/* Media Queries Small Devices */
+    section{
+        margin-top: 6rem;
+    }
+}
+
+/* ----------------Media Queries Small Devices------------------- */
 
 @media screen and (max-width:600px) {
     .container{
