@@ -4,7 +4,7 @@ import avatar3 from '../assets/avatar3.jpg';
 import avatar4 from '../assets/avatar4.jpg';
 import bg from '../assets/bg-texture.png';
 import Me1 from '../assets/me-about.png';
-import Me0 from '../assets/Me0.jpg';
+import Me0 from '../assets/Me0.png';
 import img1 from '../assets/portfolio1.jpg';
 import img2 from '../assets/portfolio2.jpg';
 import img3 from '../assets/portfolio3.jpg';
