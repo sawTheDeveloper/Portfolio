@@ -7,7 +7,7 @@ import {IoLogoTwitter} from 'react-icons/io'
 const Footer = () => {
   return (
    <footer>
-      <a href="" className="footer__logo">Evergreen Nexus</a>
+      <a href="https://evergreennexus.com/" className="footer__logo" target="_blank">Evergreen Nexus</a>
 
       <ul className="permalinks">
         <li><a href="#">Home</a></li>
@@ -19,9 +19,9 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
           <div className="footer__socials">
-            <a href="https://facebook.com" target="_blank"><FaFacebookF /> </a>
-            <a href="https://instagram.com" target="_blank"><FiInstagram /></a>
-            <a href="https://twitter.com" target="_blank"><IoLogoTwitter/></a>
+            <a href="https://facebook.com/Sawchosiz" target="_blank"><FaFacebookF /> </a>
+            <a href="https://instagram.com/sawchosiz" target="_blank"><FiInstagram /></a>
+            <a href="https://twitter.com/Sawthedeveloper" target="_blank"><IoLogoTwitter/></a>
           </div>
           <div className="footer__copyright">
             <small>&copy; Evergreen Nexus. All Rights Reserved.</small>

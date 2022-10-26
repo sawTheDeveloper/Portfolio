@@ -47,9 +47,8 @@ const About = () => {
   
 
     <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas assumenda nostrum molestiae mollitia blanditiis, minima laborum nobis quis debitis? Culpa dolore vitae sed quis ab vel nam laudantium voluptatem blanditiis?
-    </p>
-
+      I spent a large portion of my youth pursuing a career as a hip hop musician some years ago my passion switched to computer science and technology now I don't write rhymes, I write code. I have many abilities to limit it to just techonology and artistry would be understating. I also have a unique understanding and approach to marketing and branding that can be shared in any form of business. Contact me lets discuss what tomorrow can be. 
+      </p>
       <a href="#contact" className="btn btn-primary">Let's Talk</a>
       
     </div>
