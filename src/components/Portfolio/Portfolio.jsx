@@ -14,7 +14,7 @@ const Portfolio = () => {
             <div className="portfolio__item-image">
               <img src={require('../../assets/portfolio1.jpg')} alt="" />
             </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>Restaurant Menu - Example</h3>
            <div className="portfolio__item-cta">
             <a href="github.com" className="btn" target="_blank">Github</a>
             <a href="github.com" className="btn" target="_blank">Live Demo</a>
@@ -25,7 +25,7 @@ const Portfolio = () => {
             <div className="portfolio__item-image">
               <img src={require('../../assets/portfolio1.jpg')} alt="" />
             </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>Kdretros - Online Shoe Retail</h3>
            <div className="portfolio__item-cta">
             <a href="github.com" className="btn" target="_blank">Github</a>
             <a href="github.com" className="btn" target="_blank">Live Demo</a>
@@ -36,7 +36,7 @@ const Portfolio = () => {
             <div className="portfolio__item-image">
               <img src={require('../../assets/portfolio1.jpg')} alt="" />
             </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>Livio206 - Band page</h3>
            <div className="portfolio__item-cta">
             <a href="github.com" className="btn" target="_blank">Github</a>
             <a href="github.com" className="btn" target="_blank">Live Demo</a>
@@ -47,34 +47,14 @@ const Portfolio = () => {
             <div className="portfolio__item-image">
               <img src={require('../../assets/portfolio1.jpg')} alt="" />
             </div>
-            <h3>This is a portfolio item title</h3>
+            <h3>Evergreen Nexus - Company landing page</h3>
            <div className="portfolio__item-cta">
             <a href="github.com" className="btn" target="_blank">Github</a>
             <a href="github.com" className="btn" target="_blank">Live Demo</a>
            </div>
           </article>
 
-          <article className="portfolio__item">
-            <div className="portfolio__item-image">
-              <img src={require('../../assets/portfolio1.jpg')} alt="" />
-            </div>
-            <h3>This is a portfolio item title</h3>
-           <div className="portfolio__item-cta">
-            <a href="github.com" className="btn" target="_blank">Github</a>
-            <a href="github.com" className="btn" target="_blank">Live Demo</a>
-           </div>
-          </article>
-
-          <article className="portfolio__item">
-            <div className="portfolio__item-image">
-              <img src={require('../../assets/portfolio1.jpg')} alt="" />
-            </div>
-            <h3>This is a portfolio item title</h3>
-           <div className="portfolio__item-cta">
-            <a href="github.com" className="btn" target="_blank">Github</a>
-            <a href="github.com" className="btn" target="_blank">Live Demo</a>
-           </div>
-          </article>
+          
 
           
 

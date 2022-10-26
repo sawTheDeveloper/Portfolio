@@ -12,43 +12,35 @@ const Testimonials = () => {
       <div className="container testimonials__container">
         <article className="testimonials">
           <div className="client__avatar">
-            <img src={require('../../assets/avatar1.jpg')} alt="" />
+            <img src={require('../../assets/pic8.jpg')} alt="" />
           </div>
-          <h5 className="client__name">Ernest Achiever</h5>
+          <h5 className="client__name">Scott Bridge</h5>
             <small className="client__review">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia facere ea beatae eveniet voluptatibus sapiente laudantium hic asperiores. Veritatis magnam tempora totam quod rerum voluptatum minima dolorum est nam facere.
+                "Showed the initiative needed to get the job done. Very impressed"
             </small>
         </article>
 
         <article className="testimonials">
           <div className="client__avatar">
-            <img src={require('../../assets/avatar2.jpg')} alt="" />
+            <img src={require('../../assets/pic6.jpg')} alt="" />
           </div>
-          <h5 className="client__name">Ernest Achiever</h5>
+          <h5 className="client__name">Shane Smith</h5>
             <small className="client__review">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia facere ea beatae eveniet voluptatibus sapiente laudantium hic asperiores. Veritatis magnam tempora totam quod rerum voluptatum minima dolorum est nam facere.
+              "Dedicated and creative, puts alot of time into your project"
             </small>
         </article>
 
         <article className="testimonials">
           <div className="client__avatar">
-            <img src={require('../../assets/avatar3.jpg')} alt="" />
+            <img src={require('../../assets/pic7.jpg')} alt="" />
           </div>
-          <h5 className="client__name">Ernest Achiever</h5>
+          <h5 className="client__name">John Leddy</h5>
             <small className="client__review">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia facere ea beatae eveniet voluptatibus sapiente laudantium hic asperiores. Veritatis magnam tempora totam quod rerum voluptatum minima dolorum est nam facere.
+              "Patrick helped us automate a business process that saves us thousands of dollars"
             </small>
         </article>
 
-        <article className="testimonials">
-          <div className="client__avatar">
-            <img src={require('../../assets/avatar4.jpg')} alt="" />
-          </div>
-          <h5 className="client__name">Ernest Achiever</h5>
-            <small className="client__review">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia facere ea beatae eveniet voluptatibus sapiente laudantium hic asperiores. Veritatis magnam tempora totam quod rerum voluptatum minima dolorum est nam facere.
-            </small>
-        </article>
+        
 
         
 

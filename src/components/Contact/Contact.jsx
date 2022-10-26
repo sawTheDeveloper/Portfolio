@@ -34,12 +34,7 @@ const Contact = () => {
           <h5>"Msg Me"</h5>
           <a href="https://m.me/Sawchosiz" target="_blank">Send A Message</a>
           </article>
-          <article className="contact__option">
-          <BsWhatsapp className="contact__option-icon" />
-          <h4>Whatsapp</h4>
-          <h5>+1234546</h5>
-          <a href="mailto:Sawthedeveloper@gmail.com" target="_blank">Send A Message</a>
-          </article>
+          
         </div>
           {/*------------------- End of Contact Options----------- */}
 
