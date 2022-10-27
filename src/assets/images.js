@@ -14,11 +14,7 @@ import pic8 from '../assets/pic8.jpg';
 
 
 
-
-
-
-
-export default {
+const Images = {
 pic6,
 pic7,
 pic8,
@@ -32,5 +28,10 @@ img4,
 img5,
 img6,
 Profilepic,
-
 };
+
+
+
+export default Images;
+
+
