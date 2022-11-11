@@ -7,7 +7,7 @@ import {IoLogoTwitter} from 'react-icons/io'
 const Footer = () => {
   return (
    <footer>
-      <a href="https://evergreennexus.com/" className="footer__logo" rel="noreferrer" target="_blank">Evergreen Nexus</a>
+      {/* <a href="https://evergreennexus.com/" className="footer__logo" rel="noreferrer" target="_blank">Evergreen Nexus</a> */}
 
       <ul className="permalinks">
         <li><a href="#">Home</a></li>
