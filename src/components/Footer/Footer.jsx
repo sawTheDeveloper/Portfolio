@@ -10,7 +10,7 @@ const Footer = () => {
       {/* <a href="https://evergreennexus.com/" className="footer__logo" rel="noreferrer" target="_blank">Evergreen Nexus</a> */}
 
       <ul className="permalinks">
-        <li><a href="#">Home</a></li>
+        <li><a href="/#">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#experience">Experience</a></li>
         <li><a href="#services">Services</a></li>
