@@ -7,7 +7,7 @@ import pic9 from '../../assets/pic9.jpg';
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
-import { Pagination } from "swiper";
+
 
 const data = [
     {
