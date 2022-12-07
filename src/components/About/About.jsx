@@ -10,7 +10,7 @@ import {VscFolderLibrary} from 'react-icons/vsc'
 
 const About = () => {
   return (
-    <section id="about">About
+    <section id="about">
     <h5>
       Get To Know
     </h5>
@@ -47,11 +47,7 @@ const About = () => {
   
 
     <p>
-    I spent a large portion of my youth pursuing a career as a hip hop musician some years ago my passion switched to computer science and technology 
-now I don't write rhymes, I write code. 
-I have many abilities to limit it to just techonology and artistry would be understating. I have an obsessive desire to complete projects or solve problems that can extend far beyond work hours.
- I also have a unique understanding and approach to social media/content creation viral marketing and branding from years of various and multiple unique marketing campaigns as a musician that can be shared in other aspects of business. 
-Contact me lets discuss what tomorrow can be.
+    I spent a large portion of my youth pursuing a career as a hip hop musician some years ago my passion switched to computer science and technology now I don't write rhymes, I write code. I have many interest and talents and have spent countless hours in most modern media editing software. I have an obsessive desire to complete projects or solve problems that can extend far beyond work hours. I’m having fun with front end development at the moment but I see myself moving towards lower level machine coding in the future. I also have a unique understanding and approach to social media/content creation viral marketing and branding from years of various and multiple unique marketing campaigns as a musician that can be shared in other aspects of business. Contact me lets discuss what tomorrow can be.
       </p>
       <a href="#contact" className="btn btn-primary">Let's Talk</a>
       
