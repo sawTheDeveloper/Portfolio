@@ -1,7 +1,7 @@
 import React from 'react'
 import './Header.css'
 import CTA from './CTA'
-//import ME from '../../assets/me.png'
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 import HeaderSocials from './HeaderSocials'
 
 const Header = () => {
@@ -15,7 +15,7 @@ const Header = () => {
           <HeaderSocials />
 
           <div className="me">
-            <img src='https://ik.imagekit.io/Nexus253/me.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670398908957' alt="me" />
+            <LazyLoadImage src='https://ik.imagekit.io/Nexus253/me.png?ik-sdk-version=javascript-1.4.3&updatedAt=1670398908957' width={600} alt="me" loading="lazy" />
           </div>
 
           <a href="#contact" className='scroll__down'>Scroll Down</a>
