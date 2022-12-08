@@ -48,7 +48,7 @@ header{
     height: 30rem;
     position: absolute;
     left:calc(50% - 11rem);
-    margin-top: 4rem;
+    margin-bottom: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 5rem 1.5rem 1.5rem 1.5rem;
@@ -81,11 +81,9 @@ header{
     .me{
         width: 22rem;
         height: 30rem;
-        position: absolute;
         left:calc(50% - 11rem);
-        margin-bottom: 100rem;
+        margin-bottom: 1000rem;
         border-radius: 12rem 12rem 0 0;
-        overflow: hidden;
         padding: 5rem 1.5rem 1.5rem 1.5rem;
         
     }
